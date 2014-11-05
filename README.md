@@ -6,5 +6,5 @@ Play framework Dockerfile
 ###### Usage
 
 ```
-$ docker run --rm -v $(pwd):/app -p 9000:9000 yongyulee/docker-play-framework activator run
+$ docker run --rm -v $(pwd):/app -p 9000:9000 yongyulee/docker-playframework activator run
 ```
